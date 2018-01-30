@@ -1,3 +1,4 @@
+// author: Saleh Alshaikh
 #include <iostream>
 #include <string>
 
